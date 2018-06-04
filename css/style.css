@@ -42,8 +42,19 @@ width: 50%;
 
 }
 
+.page-footer.orange{
+	padding-top: 0px;
+}
+
 
 
 a{
   color: inherit;
+}
+.nav-wrapper{
+	background-color: #4db6ac !important;
+}
+
+.h5-class{
+	color: #4db6ac;
 }

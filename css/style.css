@@ -17,10 +17,6 @@ text-align: center;
 
 }
 
-.row{
-
-}
-
 .icon-block img{
 height: 50px;
 width: 50px;
@@ -44,6 +40,7 @@ width: 50%;
 
 .page-footer.orange{
 	padding-top: 0px;
+	background-color: black !important;
 }
 
 
@@ -52,9 +49,82 @@ a{
   color: inherit;
 }
 .nav-wrapper{
-	background-color: #4db6ac !important;
+	background-color: black !important;
+
+/*background-image: url("../images/header-image-1.jpg");*/
+
 }
 
 .h5-class{
-	color: #4db6ac;
+	color: white;
+}
+/*
+body{
+	background-image: url("../images/blur.jpg");
+}
+*/
+.header.center.orange-text{
+	color: white !important;
+}
+.header.col.s12.light{
+	color: white !important
+}
+
+.no-pad-bot-wrapper{
+
+	background-image: url("../images/header-image-1.jpg");
+
+}
+.about-me-header{
+	text-align: center;
+	color: white;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
+.about-me-p{
+	color: white;
+}
+
+.about-me-wrapper{
+background-image: url("../images/header-image-1.jpg");
+}
+
+.hobbies-interests{
+	color: #6ec1e4;
+	font-weight: bold;
+
+
+}
+
+.hbWrap{
+	text-align: center;
+}
+
+
+
+.center{
+	color: #6ec1e4 !important;
+	font-weight: bold;
+}
+
+.about-me-icon img{
+	height: 75px;
+	width: 75px;
+}
+.about-me-icon{
+	width: 40%;
+	text-align: center;
+display: inline-block;
+
+}
+
+.about-me-container{
+	width: 100%;
+	text-align: center;
+}
+
+.about-me-text{
+	height: 110px;
+	
 }

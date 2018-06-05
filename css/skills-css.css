@@ -19,13 +19,13 @@ width: 100% !important;
 
 
 .col.s12.m4{
-  width: 300px ;
+  width: 210px ;
   text-align: center;
-  padding-left: 50px;
   display: flex;
 }
 
 .icon-block{
+  width: 100%;
 }
 
 

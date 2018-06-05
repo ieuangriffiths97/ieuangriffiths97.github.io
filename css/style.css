@@ -131,7 +131,7 @@ height: auto;
 }
 
 .about-me-text{
-	height: 110px;
+	height: auto;
 
 }
 
@@ -144,13 +144,4 @@ nav{
 	height: 100%;
 	width: 90%;
 	margin: auto;
-}
-
-.body-div{
-	height: auto !important;
-}
-
-.surround-container{
-	height: auto !important;
-
 }

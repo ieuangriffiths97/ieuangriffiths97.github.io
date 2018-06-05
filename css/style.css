@@ -116,9 +116,10 @@ background-image: url("../images/header-image-1.jpg");
 .about-me-icon{
 	text-align: center;
 display: inline-block;
-width: 50%;
 margin-bottom: 70px;
-
+width: 30%;
+margin-right: 40px;
+margin-left: 40px;
 }
 
 .about-me-container{

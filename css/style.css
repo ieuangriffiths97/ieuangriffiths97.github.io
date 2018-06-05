@@ -77,6 +77,7 @@ body{
 .no-pad-bot-wrapper{
 
 	background-image: url("../images/header-image-1.jpg");
+	height: 312px;
 
 }
 .about-me-header{
@@ -92,6 +93,7 @@ body{
 
 .about-me-wrapper{
 background-image: url("../images/header-image-1.jpg");
+height: 312px;
 }
 
 .hobbies-interests{
@@ -120,3 +122,5 @@ nav{
 	width: 90%;
 	margin: auto;
 }
+
+.col.

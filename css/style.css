@@ -145,3 +145,12 @@ nav{
 	width: 90%;
 	margin: auto;
 }
+
+.body-div{
+	height: auto !important;
+}
+
+.surround-container{
+	height: auto !important;
+
+}

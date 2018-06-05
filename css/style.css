@@ -18,19 +18,23 @@ text-align: center;
 }
 
 .icon-block img{
-height: 50px;
-width: 50px;
-transition: opacity .5s ease-in-out;
-transition: transform 1s;
-
+height: 75px;
+width: 75px;
 
 }
 
-.icon-block img:hover{
-  opacity: 0.6;
+
+.animation-div img{
+	height: 50px;
+	width: 50px;
+	transition: opacity .5s ease-in-out;
+	transition: transform 1s;
+}
+
+.animation-div img:hover{
+	opacity: 0.6;
   transition: opacity .5s ease-in-out;
   transform: scale(1.2);
-
 }
 
 .col.s12.m4{
@@ -101,38 +105,9 @@ background-image: url("../images/header-image-1.jpg");
 	text-align: center;
 }
 
-
-
 .center{
 	color: #6ec1e4 !important;
 	font-weight: bold;
-}
-
-.about-me-icon img{
-	height: 75px;
-	width: 75px;
-}
-
-.about-me-icon{
-	text-align: center;
-display: inline-block;
-margin-bottom: 70px;
-width: 30%;
-margin-right: 40px;
-margin-left: 40px;
-height: auto;
-}
-
-.about-me-container{
-	/*height: 600px; */
-	height: auto;
-  display: flex;
-  justify-content: center;
-}
-
-.about-me-text{
-	height: auto;
-
 }
 
 nav{

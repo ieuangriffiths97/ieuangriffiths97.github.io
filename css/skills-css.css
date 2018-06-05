@@ -10,30 +10,19 @@
 }
 
 .row{
-width: 100% !important;
+width: 100%!important;
+display: flex;
 }
 
-.section{
-  width: 100% !important;
-}
 
 
 .col.s12.m4{
-  width: 210px ;
+  width: 16% ;
   text-align: center;
   display: flex;
+
 }
-
-.icon-block{
-  width: 100%;
-}
-
-
-
 
 .container{
-  text-align: center;
-  padding-left: 0px !important;
-  padding-right: 0px !important;
-  width: 100% !important;
+  max-width: 95%!important;
 }

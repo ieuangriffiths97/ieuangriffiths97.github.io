@@ -112,19 +112,34 @@ background-image: url("../images/header-image-1.jpg");
 	height: 75px;
 	width: 75px;
 }
+
 .about-me-icon{
-	width: 40%;
 	text-align: center;
 display: inline-block;
+width: 50%;
+margin-bottom: 70px;
 
 }
 
 .about-me-container{
-	width: 100%;
-	text-align: center;
+	/*height: 600px; */
+	height: auto;
+  display: flex;
+  justify-content: center;
 }
 
 .about-me-text{
 	height: 110px;
-	
+
+}
+
+nav{
+	background-color: black;
+}
+
+.nav-wrapper{
+	position: relative;
+	height: 100%;
+	width: 90%;
+	margin: auto;
 }

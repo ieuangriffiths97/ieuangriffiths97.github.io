@@ -1,0 +1,52 @@
+/* needed for basic layout */
+
+.page-footer.orange{
+	padding-top: 0px;
+	background-color: black !important;
+}
+a{
+  color: inherit;
+}
+.nav-wrapper{
+	background-color: black !important;
+}
+.h5-class{
+	color: white;
+}
+.header.center.orange-text{
+	color: white !important;
+}
+.header.col.s12.light{
+	color: white !important
+}
+.no-pad-bot-wrapper{
+	background-image: url("../images/header-image-1.jpg");
+	height: 312px;
+}
+nav{
+	background-color: black;
+}
+.nav-wrapper{
+	position: relative;
+	height: 100%;
+	width: 90%;
+	margin: auto;
+}
+
+/* needed for basic layout */
+
+/* extra stuff below */
+
+.main-text-div{
+margin: auto;;
+
+}
+
+.blue-h5{
+	color: #6ec1e4;
+}
+
+li.tick:before {
+  content: "\2713";
+  color:  #6ec1e4;
+}

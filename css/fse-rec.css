@@ -44,9 +44,15 @@ margin: auto;;
 
 .blue-h5{
 	color: #6ec1e4;
+	text-align: center;
+	font-weight: bold;
 }
 
 li.tick:before {
   content: "\2713";
   color:  #6ec1e4;
+	font-weight: 1000;
+
 }
+
+/* image slidehow css */

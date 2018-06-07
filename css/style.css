@@ -95,12 +95,13 @@ height: 312px;
 .hobbies-interests{
 	color: #6ec1e4;
 	font-weight: bold;
+	text-align: center;
 
 
 }
 
 .hbWrap{
-	text-align: center;
+margin: auto;
 }
 
 .center{

@@ -10,6 +10,12 @@ a{
 .nav-wrapper{
 	background-color: black !important;
 }
+html{
+	font-family: sans-serif!important;
+}
+h1{
+	font-size: 4.2rem!important;
+}
 .h5-class{
 	color: white;
 }

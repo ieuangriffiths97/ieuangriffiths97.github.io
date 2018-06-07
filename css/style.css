@@ -55,7 +55,6 @@ a{
 .nav-wrapper{
 	background-color: black !important;
 
-/*background-image: url("../images/header-image-1.jpg");*/
 
 }
 
@@ -76,6 +75,7 @@ a{
 	height: 312px;
 
 }
+
 .about-me-header{
 	text-align: center;
 	color: white;
@@ -84,7 +84,7 @@ a{
 
 }
 .about-me-p{
-	color: white;
+	color: black;
 }
 
 .about-me-wrapper{

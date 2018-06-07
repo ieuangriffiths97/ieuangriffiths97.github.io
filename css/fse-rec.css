@@ -38,8 +38,13 @@ nav{
 /* extra stuff below */
 
 .main-text-div{
-margin: auto;;
+margin: auto;
 
+}
+
+.center{
+	color: #6ec1e4 !important;
+	font-weight: bold;
 }
 
 .blue-h5{

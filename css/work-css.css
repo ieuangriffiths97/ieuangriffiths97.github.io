@@ -24,6 +24,11 @@ a{
 .header.center.orange-text{
 	color: white !important;
 }
+
+.center{
+	color: #6ec1e4 !important;
+	font-weight: bold;
+}
 .header.col.s12.light{
 	color: white !important
 }

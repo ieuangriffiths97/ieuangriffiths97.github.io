@@ -107,6 +107,6 @@
 }
 
 .section a{
-  text-decoration: underline!important;
+  text-decoration: none!important;
   color: blue !important;
 }
